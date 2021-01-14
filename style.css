@@ -1,0 +1,43 @@
+.images-power{
+    width: 500px;
+}
+.card-mama{
+border: 0;
+
+}
+.high{
+    color: orange;
+    font-size: 20px;
+    text-decoration: bold;
+}
+.small{
+    width: 50px;
+    background-color: lightgray;
+}
+
+
+
+.small-ic{
+    width: 50px;
+    
+}
+
+.extra-color{
+    background-color: lightgray;
+    width: 400px;}
+
+    .victor{
+        margin-left: 1100px;
+        margin-top: -300px;
+    }
+    .victor-headline{
+margin-left: 400px;
+    }
+    .pp-pading{
+        padding-top: 90px;
+    }
+    .pp-footer{
+        background-color: white;
+        border: 0;
+    }
+
